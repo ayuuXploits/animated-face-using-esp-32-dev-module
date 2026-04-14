@@ -77,7 +77,7 @@ void handleButton() {
         // React to button press by looking UP suddenly
         currentState = REACTING;
         actionStartTime = millis();
-        // Set unified targets for looking UP
+        
         targetOffsetX = 0; 
         targetOffsetY = -10; // Look high up in the eye area
       }
