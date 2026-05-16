@@ -83,6 +83,7 @@ Install these libraries via the **Arduino Library Manager** (Sketch → Include 
 4. **Check your OLED I2C address** — most modules use `0x3C`, but some use `0x3D`. Change `SCREEN_ADDRESS` in the code if needed:
    ```cpp
    #define SCREEN_ADDRESS 0x3C  // change to 0x3D if display doesn't work
+   
    ```
 5. Select your board and port under **Tools**.
 6. Upload and enjoy!
