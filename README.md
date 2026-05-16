@@ -127,6 +127,7 @@ random(1500, 4000)  // change values in scheduleNextAction()
 Pupil movement uses simple linear interpolation each frame:
 ```cpp
 pupilOffsetX += (targetOffsetX - pupilOffsetX) / 3;
+
 ```
 This gives a natural easing effect without any extra libraries.
 
@@ -136,7 +137,6 @@ This gives a natural easing effect without any extra libraries.
 
 © 2025 ayuuXploits. All rights reserved.
 
-No part of this project may be copied, modified, distributed, or used without explicit permission from the author.
 
 ---
 
