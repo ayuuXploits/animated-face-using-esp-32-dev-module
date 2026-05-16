@@ -135,7 +135,7 @@ This gives a natural easing effect without any extra libraries.
 
 ## License
 
-© 2025 ayuuXploits. All rights reserved.
+© 2026 ayuuXploits. All rights reserved.
 
 
 ---
